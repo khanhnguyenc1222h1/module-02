@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/display-prime/display-prime.iml" filepath="$PROJECT_DIR$/display-prime/display-prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/display-types-img/display-types-img.iml" filepath="$PROJECT_DIR$/display-types-img/display-types-img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawing-menu/drawing-menu.iml" filepath="$PROJECT_DIR$/drawing-menu/drawing-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interest-calculator/interest-calculator.iml" filepath="$PROJECT_DIR$/interest-calculator/interest-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/is-prime/is-prime.iml" filepath="$PROJECT_DIR$/is-prime/is-prime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lession-02.iml" filepath="$PROJECT_DIR$/.idea/lession-02.iml" />
+    </modules>
+  </component>
+</project>
